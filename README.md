@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/tustoz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okb3wok&layout=compact&hide_border=true&theme=light" />
+</a>
