@@ -17,3 +17,12 @@ Here are some ideas to get you started:
 
  
 😄 Hi there!
+
+
+### Frontend:
+![](https://img.shields.io/badge/JavaScript-informational?style=flat-square&logo=javascript)
+![](https://img.shields.io/badge/HTML-informational?style=flat-square&logo=html5)
+![](https://img.shields.io/badge/CSS-informational?style=flat-square&logo=css3)
+![](https://img.shields.io/badge/React-informational?style=flat-square&logo=react)
+![](https://img.shields.io/badge/Webpack-informational?style=flat-square&logo=webpack)
+![](https://img.shields.io/badge/Node.js-informational?style=flat-square&logo=node.js)
