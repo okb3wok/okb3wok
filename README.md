@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 
 ### Backend:
 
+![](https://img.shields.io/badge/php-informational?style=flat-square&logo=php&color=eeeeee)
 ![](https://img.shields.io/badge/Django-informational?style=flat-square&logo=Django&color=0c4b33)
 ![](https://img.shields.io/badge/Python-informational?style=flat-square&logo=Python&color=555555)
 ![](https://img.shields.io/badge/Node.js-informational?style=flat-square&logo=node.js)
