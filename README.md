@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Node.js-informational?style=flat-square&logo=node.js&logoColor=ffffff&color=3c873a)
 
 ### Backend:
-![](https://img.shields.io/badge/Python-informational?style=flat-square&logo=Python&color=555555))
-![](https://img.shields.io/badge/Node.js-informational?style=flat-square&logo=node.js))
+![](https://img.shields.io/badge/Python-informational?style=flat-square&logo=Python&color=555555)
+![](https://img.shields.io/badge/Node.js-informational?style=flat-square&logo=node.js)
