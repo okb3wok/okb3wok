@@ -39,4 +39,6 @@ Here are some ideas to get you started:
 
 ### Tools:
 
+![](https://img.shields.io/badge/phpstorm-informational?style=flat-square&logo=phpstorm)
+![](https://img.shields.io/badge/pycharm-informational?style=flat-square&logo=pycharm&color=1d405d)
 ![](https://img.shields.io/badge/codeium-informational?style=flat-square&logo=codeium&color=9d9d9d)
