@@ -35,3 +35,8 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Python-informational?style=flat-square&logo=Python&color=1d405d)
 ![](https://img.shields.io/badge/Node.js-informational?style=flat-square&logo=node.js)
 ![](https://img.shields.io/badge/Express-informational?style=flat-square&logo=Express&color=555544)
+
+
+### Tools:
+
+![](https://img.shields.io/badge/codeium-informational?style=flat-square&logo=codeium&color=9d9d9d)
