@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/React-informational?style=flat-square&logo=react)
 ![](https://img.shields.io/badge/Webpack-informational?style=flat-square&logo=webpack)
 ![](https://img.shields.io/badge/Node.js-informational?style=flat-square&logo=node.js&logoColor=ffffff&color=3c873a)
+![](https://img.shields.io/badge/Bootstrap-informational?style=flat-square&logo=bootstrap&color=eeeeee)
 
 
 ### Backend:
