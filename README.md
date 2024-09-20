@@ -13,11 +13,13 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 
-- 📫 How to reach me: [...](https://t.me/ra3wok)
  
 😄 Hi there!
 
+- 🔭 I'm currently working on myself)
+- 📫 How to reach me: [...](https://t.me/ra3wok)
 
 ### Frontend:
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat-square&logo=javascript)
