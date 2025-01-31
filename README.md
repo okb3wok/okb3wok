@@ -18,7 +18,7 @@ Here are some ideas to get you started:
  
 😄 Hi there!
 
-- 🔭 I'm currently working on myself)
+- 🔭 I'm currently working under myself)
 - 📫 How to reach me: [tg](https://t.me/ra3wok)
 
 ### Frontend:
@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Webpack-informational?style=flat-square&logo=webpack)
 ![](https://img.shields.io/badge/Node.js-informational?style=flat-square&logo=node.js&logoColor=ffffff&color=3c873a)
 ![](https://img.shields.io/badge/Bootstrap-informational?style=flat-square&logo=bootstrap&color=eeeeee)
+![](https://img.shields.io/badge/vue-informational?style=flat-square&logo=vue.js&logoColor=ffffff&color=3cc710)
 
 
 ### Backend:
